@@ -12,5 +12,3 @@ This project was developed as part of a team effort in internship to create a **
 - Assisting with the **design and implementation of the database structure**, ensuring that the data model was optimized for performance and scalability.
 - Designing the **UI interface**, focusing on user-friendly interactions and clear presentation of information for both store staff and shelter managers.
 - Leading and delivering the **demo and presentation**, explaining the project’s features, technical implementation, and impact to stakeholders during the final showcase.
-
-### To see detail, please refer to our presentation pdf.
